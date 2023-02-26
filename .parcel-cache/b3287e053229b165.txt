@@ -1,18 +1,20 @@
-4936
-58/home/danilo/Documents/ebac/ebac_talks/src/scripts/main.js1677420546304792171 0
-49/home/danilo/Documents/ebac/ebac_talks/src/styles1677422322506854286 1
+4944
+58/home/danilo/Documents/ebac/ebac_talks/src/scripts/main.js1677433789434863151 0
+65/home/danilo/Documents/ebac/ebac_talks/src/styles/_variables.scss1677431200646324869 0
+49/home/danilo/Documents/ebac/ebac_talks/src/styles1677430773979815655 1
 59/home/danilo/Documents/ebac/ebac_talks/src/images/fundo.png1669856086000000000 0
-53/home/danilo/Documents/ebac/ebac_talks/src/index.html1677422710975453740 0
+53/home/danilo/Documents/ebac/ebac_talks/src/index.html1677433969983867810 0
 42/home/danilo/Documents/ebac/ebac_talks/src1677420784176330457 1
 56/home/danilo/Documents/ebac/ebac_talks/package-lock.json1677421732352240604 0
-51/home/danilo/Documents/ebac/ebac_talks/dist/scripts1677422533155702866 1
-61/home/danilo/Documents/ebac/ebac_talks/dist/index.f75de5e1.js1677422533131704042 0
-50/home/danilo/Documents/ebac/ebac_talks/dist/styles1677423172588960031 1
-64/home/danilo/Documents/ebac/ebac_talks/dist/backend.3c327b9e.png1677421734176190527 0
-65/home/danilo/Documents/ebac/ebac_talks/dist/index.f75de5e1.js.map1677422533131704042 0
-62/home/danilo/Documents/ebac/ebac_talks/dist/fundo.a62a0635.png1677422533147703258 0
-70/home/danilo/Documents/ebac/ebac_talks/dist/ebac_talks.59712999.js.map1677422533151703063 0
-43/home/danilo/Documents/ebac/ebac_talks/dist1677422710999452681 1
+51/home/danilo/Documents/ebac/ebac_talks/dist/scripts1677433789454862378 1
+61/home/danilo/Documents/ebac/ebac_talks/dist/index.f75de5e1.js1677433789450862532 0
+50/home/danilo/Documents/ebac/ebac_talks/dist/styles1677433584262793821 1
+65/home/danilo/Documents/ebac/ebac_talks/dist/frontend.ffcc0254.png1677433216668920094 0
+64/home/danilo/Documents/ebac/ebac_talks/dist/backend.3c327b9e.png1677433216664920247 0
+65/home/danilo/Documents/ebac/ebac_talks/dist/index.f75de5e1.js.map1677433789454862378 0
+62/home/danilo/Documents/ebac/ebac_talks/dist/fundo.a62a0635.png1677433216660920399 0
+70/home/danilo/Documents/ebac/ebac_talks/dist/ebac_talks.59712999.js.map1677433216672919941 0
+43/home/danilo/Documents/ebac/ebac_talks/dist1677433969999867190 1
 74/home/danilo/Documents/ebac/ebac_talks/node_modules/is-number/package.json1677420435961121364 0
 76/home/danilo/Documents/ebac/ebac_talks/node_modules/@trysound/sax/lib/sax.js1677420436037118273 0
 69/home/danilo/Documents/ebac/ebac_talks/node_modules/@trysound/sax/lib1677420436013119249 1
@@ -127,7 +129,7 @@
 70/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr/struct.js1677420436229110467 0
 73/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr/benchmark.md1677420436329106400 0
 68/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr/LICENSE1677420435969121040 0
-49/home/danilo/Documents/ebac/ebac_talks/.gitignore1677421150288794458 0
+49/home/danilo/Documents/ebac/ebac_talks/.gitignore1677423928962638963 0
 74/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr/dist/node.cjs1677420436129114533 0
 82/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr/dist/index.min.js.map1677420436293107864 0
 65/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr/dist1677420436325106563 1
@@ -321,7 +323,7 @@
 68/home/danilo/Documents/ebac/ebac_talks/node_modules/anymatch/LICENSE1677420667024370643 0
 81/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/watcher/index.js.flow1677420436205111442 0
 78/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/watcher/src/shared1677420436213111117 1
-54/home/danilo/Documents/ebac/ebac_talks/dist/index.html1677422710999452681 0
+54/home/danilo/Documents/ebac/ebac_talks/dist/index.html1677433969999867190 0
 83/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/watcher/src/Debounce.hh1677420436221110792 0
 86/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/watcher/src/unix/legacy.cc1677420436173112744 0
 76/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/watcher/src/unix1677420436169112906 1
@@ -391,7 +393,7 @@
 103/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/runtime-js/src/helpers/browser/js-loader.js1677420436233110304 0
 104/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/runtime-js/src/helpers/browser/css-loader.js1677420436181112418 0
 105/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/runtime-js/src/helpers/browser/html-loader.js1677420436213111117 0
-59/home/danilo/Documents/ebac/ebac_talks/dist/scripts/main.js1677422533151703063 0
+59/home/danilo/Documents/ebac/ebac_talks/dist/scripts/main.js1677433789454862378 0
 74/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/runtime-js/src1677420436253109491 1
 83/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/runtime-js/package.json1677420436269108840 0
 78/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/runtime-js/LICENSE1677420436033118436 0
@@ -496,7 +498,7 @@
 121/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/dist.js1677420436265109003 0
 130/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/src/test.js1677420436393103799 0
 122/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/src1677420436393103799 1
-59/home/danilo/Documents/ebac/ebac_talks/src/styles/main.scss1677422477650473626 0
+59/home/danilo/Documents/ebac/ebac_talks/src/styles/main.scss1677431067755721266 0
 131/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/package.json1677420436425102498 0
 75/home/danilo/Documents/ebac/ebac_talks/node_modules/expand-template/LICENSE1677421729652314743 0
 118/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob1677420436425102498 1
@@ -980,6 +982,7 @@
 81/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/utils/src/Deferred.js1677420436181112418 0
 86/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/core/lib/InternalConfig.js1677420436345105750 0
 79/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/utils/src/config.js1677420436153113557 0
+74/home/danilo/Documents/ebac/ebac_talks/src/styles/componetes/_buttons.scss1677431209169979919 0
 93/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/utils/src/generateBuildMetrics.js1677420436193111930 0
 69/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/utils/src1677420436345105750 1
 78/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/utils/package.json1677420436345105750 0
@@ -1203,6 +1206,7 @@
 75/home/danilo/Documents/ebac/ebac_talks/node_modules/mdn-data/css/types.json1677420436257109328 0
 71/home/danilo/Documents/ebac/ebac_talks/node_modules/srcset/package.json1677420436021118924 0
 81/home/danilo/Documents/ebac/ebac_talks/node_modules/mdn-data/css/definitions.json1677420436169112906 0
+61/home/danilo/Documents/ebac/ebac_talks/dist/data.b5acb70a.png1677433216676919788 0
 73/home/danilo/Documents/ebac/ebac_talks/node_modules/mdn-data/css/index.js1677420436037118273 0
 87/home/danilo/Documents/ebac/ebac_talks/node_modules/mdn-data/css/properties.schema.json1677420436241109979 0
 64/home/danilo/Documents/ebac/ebac_talks/node_modules/mdn-data/css1677420436261109165 1
@@ -1323,6 +1327,7 @@
 87/home/danilo/Documents/ebac/ebac_talks/node_modules/svgo/plugins/removeScriptElement.js1677420436293107864 0
 96/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/hash/parcel-hash.win32-x64-msvc.node1677420436369104775 0
 82/home/danilo/Documents/ebac/ebac_talks/node_modules/svgo/plugins/removeComments.js1677420436277108515 0
+61/home/danilo/Documents/ebac/ebac_talks/src/styles/_event.scss1677433584226795210 0
 76/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/transformer-sass1677420667028370501 1
 75/home/danilo/Documents/ebac/ebac_talks/node_modules/svgo/plugins/plugins.js1677420436273108677 0
 88/home/danilo/Documents/ebac/ebac_talks/node_modules/svgo/plugins/removeOffCanvasPaths.js1677420436293107864 0
@@ -1696,7 +1701,7 @@
 84/home/danilo/Documents/ebac/ebac_talks/node_modules/postcss-value-parser/lib/walk.js1677420436085116322 0
 85/home/danilo/Documents/ebac/ebac_talks/node_modules/postcss-value-parser/lib/index.js1677420436021118924 0
 104/home/danilo/Documents/ebac/ebac_talks/node_modules/react-refresh/cjs/react-refresh-babel.development.js1677420436041118111 0
-66/home/danilo/Documents/ebac/ebac_talks/dist/ebac_talks.59712999.js1677422533151703063 0
+66/home/danilo/Documents/ebac/ebac_talks/dist/ebac_talks.59712999.js1677433216668920094 0
 70/home/danilo/Documents/ebac/ebac_talks/node_modules/yaml/dist/types.js1677420436277108515 0
 64/home/danilo/Documents/ebac/ebac_talks/node_modules/color-string1677421729664314414 1
 79/home/danilo/Documents/ebac/ebac_talks/node_modules/lightningcss/node/index.mjs1677420436189112093 0
@@ -1853,6 +1858,7 @@
 77/home/danilo/Documents/ebac/ebac_talks/node_modules/domutils/lib/stringify.js1677420436109115346 0
 97/home/danilo/Documents/ebac/ebac_talks/node_modules/caniuse-lite/data/features/rest-parameters.js1677420436485100057 0
 77/home/danilo/Documents/ebac/ebac_talks/node_modules/domutils/lib/traversal.js1677420436125114695 0
+60/home/danilo/Documents/ebac/ebac_talks/src/styles/componetes1677424718001041009 1
 81/home/danilo/Documents/ebac/ebac_talks/node_modules/css-tree/lib/parser/create.js1677420436245109816 0
 121/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing/package.json1677420436429102334 0
 84/home/danilo/Documents/ebac/ebac_talks/node_modules/msgpackr-extract/src/extract.cpp1677420436017119087 0
@@ -1974,7 +1980,7 @@
 80/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/types/lib/index.d.ts1677420436129114533 0
 92/home/danilo/Documents/ebac/ebac_talks/node_modules/@jridgewell/sourcemap-codec/package.json1677420436025118761 0
 104/home/danilo/Documents/ebac/ebac_talks/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.mjs.map1677420436089116159 0
-63/home/danilo/Documents/ebac/ebac_talks/dist/scripts/main.js.map1677422533151703063 0
+63/home/danilo/Documents/ebac/ebac_talks/dist/scripts/main.js.map1677433789454862378 0
 74/home/danilo/Documents/ebac/ebac_talks/node_modules/to-regex-range/LICENSE1677420436021118924 0
 73/home/danilo/Documents/ebac/ebac_talks/node_modules/tunnel-agent/index.js1677421729548317599 0
 107/home/danilo/Documents/ebac/ebac_talks/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js.map1677420436129114533 0
@@ -2039,6 +2045,7 @@
 66/home/danilo/Documents/ebac/ebac_talks/node_modules/weak-lru-cache1677420436109115346 1
 63/home/danilo/Documents/ebac/ebac_talks/node_modules/buffer-from1677420436017119087 1
 91/home/danilo/Documents/ebac/ebac_talks/node_modules/sharp/node_modules/semver/bin/semver.js1677421729740312327 0
+76/home/danilo/Documents/ebac/ebac_talks/src/styles/componetes/_infos_bar.scss1677431351844223452 0
 107/home/danilo/Documents/ebac/ebac_talks/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-bdb.txt1677420436421102660 0
 71/home/danilo/Documents/ebac/ebac_talks/node_modules/dotenv/CHANGELOG.md1677420436013119249 0
 71/home/danilo/Documents/ebac/ebac_talks/node_modules/dotenv/package.json1677420435969121040 0
@@ -2116,7 +2123,7 @@
 93/home/danilo/Documents/ebac/ebac_talks/node_modules/@lmdb/lmdb-linux-x64/node.abi83.musl.node1677420436385104123 0
 83/home/danilo/Documents/ebac/ebac_talks/node_modules/readable-stream/CONTRIBUTING.md1677421729732312546 0
 83/home/danilo/Documents/ebac/ebac_talks/node_modules/caniuse-lite/data/regions/VC.js1677420436497099569 0
-60/home/danilo/Documents/ebac/ebac_talks/src/styles/_hero.scss1677423172568960772 0
+60/home/danilo/Documents/ebac/ebac_talks/src/styles/_hero.scss1677431467755567316 0
 91/home/danilo/Documents/ebac/ebac_talks/node_modules/caniuse-lite/data/features/dom-range.js1677420436433102172 0
 77/home/danilo/Documents/ebac/ebac_talks/node_modules/readable-stream/README.md1677421729736312436 0
 93/home/danilo/Documents/ebac/ebac_talks/node_modules/sharp/node_modules/semver/functions/lt.js1677421729724312766 0
@@ -2555,7 +2562,7 @@
 81/home/danilo/Documents/ebac/ebac_talks/node_modules/source-map-js/source-map.d.ts1677420667032370360 0
 63/home/danilo/Documents/ebac/ebac_talks/node_modules/@jridgewell1677420435005160263 1
 88/home/danilo/Documents/ebac/ebac_talks/node_modules/node-abi/node_modules/semver/classes1677421729740312327 1
-59/home/danilo/Documents/ebac/ebac_talks/dist/styles/main.css1677423172588960031 0
+59/home/danilo/Documents/ebac/ebac_talks/dist/styles/main.css1677433584262793821 0
 80/home/danilo/Documents/ebac/ebac_talks/node_modules/css-select/lib/sort.d.ts.map1677420436221110792 0
 94/home/danilo/Documents/ebac/ebac_talks/node_modules/css-select/lib/pseudo-selectors/aliases.js1677420436029118599 0
 97/home/danilo/Documents/ebac/ebac_talks/node_modules/caniuse-lite/data/features/css-reflections.js1677420436401103474 0
@@ -3368,6 +3375,7 @@
 103/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/core/test/fixtures/main-global/package.json1677420436429102334 0
 86/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/core/lib/serializerCore.js1677420436393103799 0
 67/home/danilo/Documents/ebac/ebac_talks/node_modules/sharp/README.md1677421729752311997 0
+62/home/danilo/Documents/ebac/ebac_talks/dist/ui-ux.eb833062.png1677433216668920094 0
 69/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/fs-search1677420436345105750 1
 70/home/danilo/Documents/ebac/ebac_talks/node_modules/node-abi/README.md1677421729704313315 0
 81/home/danilo/Documents/ebac/ebac_talks/node_modules/csso/lib/clean/Declaration.js1677420436273108677 0
@@ -3850,7 +3858,7 @@
 104/home/danilo/Documents/ebac/ebac_talks/node_modules/sharp/node_modules/semver/functions/compare-build.js1677421729688313755 0
 67/home/danilo/Documents/ebac/ebac_talks/node_modules/xxhash-wasm/umd1677420436105115508 1
 82/home/danilo/Documents/ebac/ebac_talks/node_modules/xxhash-wasm/umd/xxhash-wasm.js1677420436069116972 0
-66/home/danilo/Documents/ebac/ebac_talks/dist/ebac_logo.a50a4e19.svg1677422533147703258 0
+66/home/danilo/Documents/ebac/ebac_talks/dist/ebac_logo.a50a4e19.svg1677433216696919024 0
 71/home/danilo/Documents/ebac/ebac_talks/node_modules/css-tree/lib/walker1677420436345105750 1
 77/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/optimizer-css/lib1677420436013119249 1
 64/home/danilo/Documents/ebac/ebac_talks/node_modules/lightningcss1677420436181112418 1
@@ -3984,7 +3992,7 @@
 83/home/danilo/Documents/ebac/ebac_talks/node_modules/domutils/lib/stringify.d.ts.map1677420436169112906 0
 69/home/danilo/Documents/ebac/ebac_talks/node_modules/once/package.json1677421729528318149 0
 87/home/danilo/Documents/ebac/ebac_talks/node_modules/caniuse-lite/data/features/http2.js1677420436441101846 0
-63/home/danilo/Documents/ebac/ebac_talks/dist/styles/main.css.map1677423172588960031 0
+63/home/danilo/Documents/ebac/ebac_talks/dist/styles/main.css.map1677433584262793821 0
 74/home/danilo/Documents/ebac/ebac_talks/node_modules/mkdirp-classic/LICENSE1677421729612315842 0
 123/home/danilo/Documents/ebac/ebac_talks/node_modules/@parcel/workers/test/integration/workerfarm/resolve-shared-reference.js1677420436233110304 0
 69/home/danilo/Documents/ebac/ebac_talks/node_modules/terser/PATRONS.md1677420436361105099 0
